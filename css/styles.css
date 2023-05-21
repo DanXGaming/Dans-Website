@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    position: relative;
+    right: 10px;
+}
+
+h2 {
+    padding: 20px;
+    margin: 0px;
+}
+
+a {
+    margin-bottom: 10px;
+    padding: 5px;
+    color: royalblue;
+}
+
+p {
+    font-size: 23px;
+    position: relative;
+    margin: 0px;
+}
+
+.pp {
+    padding: 10px;
+}
+
+.bluesky {
+    background-color: cadetblue;
+    padding: 10px;
+    height: 468px;
+    padding-top: 100px;
+}
+
+.greenland {
+    margin: 0px;
+    background-color: #4d873e;
+    height: 250px;
+    padding-bottom: 20px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-top: #276b16;
+}
+
+.lightgreenland {
+    margin: 0px;
+    background-color: #7cb74c;
+    padding-bottom: 50px;
+    height: 250px;
+
+}
+
+.baugeland {
+    background-color: burlywood;
+    padding-bottom: 30px;
+    height: 250px;
+}
+
+.beachland {
+    background-color: bisque;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.underground {
+    background-color: darkgrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cloud {
+    position: absolute;
+    bottom: 60%;
+    right: 60%;
+}
+.cloud2 {
+    position: absolute;
+    bottom: 70%;
+    left: 56%;
+}
+
+.mountain {
+    align-self: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.mountsmall {
+    position: absolute;
+    top: 339px;
+    left:470px;
+    width: 400px;
+}
+
+.icons {
+    width: 120px;
+    margin-top: 40px;
+}
+
+.pen-paper {
+    width: 120px;
+    margin-top: 40px;
+    position: relative;
+    left: 20px;
+}
+
